@@ -1,0 +1,7 @@
+<library path="lib/libpure_pursuit_local_planner">
+  <class name="pure_pursuit_local_planner/PurePursuitPlanner" type="pure_pursuit_local_planner::PurePursuitPlanner" base_class_type="nav_core::BaseLocalPlanner">
+    <description>
+      Implementation of the Pure Pursuit Algorithm
+    </description>
+  </class>
+</library>
